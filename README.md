@@ -137,11 +137,6 @@ Use the in-app form or email partnerships@radyai.com.
 | **Support** | 24/7 in-app chat |
 | **Hours** | Mon–Fri, 9am–6pm EST |
 
----
-
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
@@ -155,6 +150,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 *Part of [RADCO Web Solutions](https://radyai.com/radco.html)*
 
-© 2026 Rady AI · All rights reserved.
+© 2027 Rady AI · All rights reserved.
 
 </div>
