@@ -6,7 +6,7 @@
 
 # The Unknown? Known.
 
-### The AI for problem solvers.
+### The AI that compacts your workflow.
 
 <p>
   <img src="https://img.shields.io/badge/version-1.5-0a4d4d?style=flat-square&labelColor=084040" alt="Version">
