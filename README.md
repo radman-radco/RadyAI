@@ -9,7 +9,7 @@
 ### The AI that compacts your workflow.
 
 <p>
-  <img src="https://img.shields.io/badge/version-1.5-0a4d4d?style=flat-square&labelColor=084040" alt="Version">
+  <img src="https://img.shields.io/badge/version-7.1-0a4d4d?style=flat-square&labelColor=084040" alt="Version">
   <img src="https://img.shields.io/badge/company-RADCO-1a1a1a?style=flat-square&labelColor=111" alt="RADCO">
   <img src="https://img.shields.io/badge/status-active-2ab3b3?style=flat-square&labelColor=0a4d4d" alt="Status">
 </p>
