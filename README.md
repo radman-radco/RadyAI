@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="=https://rady.free.nf/imgs/fulllogo.svg" alt="Rady AI" width="380">
+<img src="https://rady.free.nf/imgs/fulllogo.svg" alt="Rady AI" width="380">
 
 <br><br>
 
