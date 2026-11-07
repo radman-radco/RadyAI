@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.imgurl.ir/uploads/v282220_.png" alt="Rady AI" width="380">
+<img src="=https://rady.free.nf/imgs/fulllogo.svg" alt="Rady AI" width="380">
 
 <br><br>
 
