@@ -58,6 +58,7 @@ It remembers what you're working on, adapts to your situation, and walks you thr
 **It helps you think.** The goal isn't just to answer — it's to give you something you can actually act on. That means showing the reasoning, not hiding it.
 
 **It works for teams.** Share conversations, build on each other's work, stay aligned. Less back-and-forth, more getting things done.
+**High cache-hit rate** Rady is optimized to reduce costs and have upto 98% cache hit rate 
 
 **Rady Dispatch.** For bigger jobs — send the task, close the tab, come back when it's done. Every paid user gets a Rady Sandbox where Rady can run commands, work with files, and return finished deliverables. [Read more →](https://radyai.com/blog/dispatch)
 
