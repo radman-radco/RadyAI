@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://radyai.com/imgs/fulllogo.svg?cache=bypass" alt="Rady by RADCO" width="380" >
+<img src="https://i.ibb.co/B5xTrpwJ/Full.jpg" alt="Rady by RADCO" width="380" >
 
 <br><br>
 
