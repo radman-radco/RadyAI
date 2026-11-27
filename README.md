@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://forthcoming-beige-dugpor0x.edgeone.dev/file.png" alt="Rady by RADCO" width="380" >
+<img src="https://forthcoming-beige-dugpor0x.edgeone.dev/file.png" alt="Rady by RADCO" width="380" onclick="window.redirect('https://radyai.com/home')">
 
 <br><br>
 
