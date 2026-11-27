@@ -35,8 +35,8 @@ It remembers what you're working on, adapts to your situation, and walks you thr
 
 > **See Rady in action**
 
-[Watch the demo](https://www.youtube.com/watch?v=-_j7pP_HIf8)
-[About Dispatch](https://www.youtube.com/watch?v=JAPtsspqMZE))
+[Watch the demo](https://www.youtube.com/watch?v=-_j7pP_HIf8) <br>
+[Introducing Rady Dispatch](https://www.youtube.com/watch?v=JAPtsspqMZE)
 
 ---
 
@@ -69,22 +69,11 @@ It remembers what you're working on, adapts to your situation, and walks you thr
 
 | Plan | Price | Chats | Emails |
 |------|-------|-------|--------|
-| **Basic** | £2.99/mo | 30/week | 50/month |
-| **Pro** | £5.99/mo | 100/week | 150/month |
-| **Premium** | £9.99/mo | 300/week | 300/month |
+| **Basic** | £9.99/mo | 30/week | 50/month |
+| **Pro** | £34.99/mo | 100/week | 150/month |
+| **Premium** | £89.99/mo | 300/week | 300/month |
 
-All plans include 25% off with yearly billing. [Full pricing →](https://radyai.com/#pricing)
-
----
-
-## By the numbers
-
-| | |
-|---|---|
-| **5,247** | Active users this month |
-| **52,000+** | Problems solved |
-| **4.9 ★** | Average user rating |
-| **24/7** | Always available |
+All plans include 25% off with yearly billing. [Full pricing →](https://radyai.com/pricing)
 
 ---
 
