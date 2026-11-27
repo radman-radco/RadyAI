@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://forthcoming-beige-dugpor0x.edgeone.dev/file.png" alt="Rady by RADCO" width="380" >
+<img src="https://forthcoming-beige-dugpor0x.edgeone.dev/file.png" alt="Rady by RADCO" width="380" onclick="window.redirect('https://radyai.com/home')">
 
 <br><br>
 
@@ -35,7 +35,7 @@ It remembers what you're working on, adapts to your situation, and walks you thr
 
 > **See Rady in action**
 
-[![Watch the demo](https://img.shields.io/badge/Watch%20Demo-YouTube-0a4d4d?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-_j7pP_HIf8)
+[![Watch the demo](https://www.youtube.com/watch?v=-_j7pP_HIf8)
 
 ---
 
