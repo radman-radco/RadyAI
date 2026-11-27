@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/vH0zB4bV/full-no-backgound.jpg" alt="Rady by RADCO" width="380" >
+<img src="https://forthcoming-beige-dugpor0x.edgeone.dev/file.png" alt="Rady by RADCO" width="380" >
 
 <br><br>
 
