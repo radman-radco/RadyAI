@@ -125,8 +125,8 @@ Use the in-app form or email partnerships@radyai.com.
 |---|---|
 | **General** | hello@radyai.com |
 | **Partnerships** | partnerships@radyai.com |
-| **Support** | 24/7 in-app chat |
-| **Hours** | Mon–Fri, 9am–6pm EST |
+| **Support Email** | cs@radyai.com |
+| **Support Chat** | [24/7 in-app chat](https://radyai.com/support) |
 
 
 ---
